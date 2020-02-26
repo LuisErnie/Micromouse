@@ -6,4 +6,4 @@ PID Tuned for sensor response acording to spreadsheet
 
 Maze solving is acomplished with modified floodfill
 
-[Mouse](https://github.com/LuisErnie/Micromouse/blob/master/Micromouse.png)
+![Mouse](https://github.com/LuisErnie/Micromouse/blob/master/Micromouse.png)
